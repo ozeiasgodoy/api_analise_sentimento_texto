@@ -9,5 +9,5 @@ Api para analise de sentimentos, utilizando python e biblioteca NLTK
 - Rode o projeto no python (python src/main.py)
 - Se ocorreu tudo dentro do previsto, sua API estará rodando.
 
-#Video do projeto em ação
-https://youtu.be/W7EzCI_vJnM
+# Video do projeto em ação
+- https://youtu.be/W7EzCI_vJnM
